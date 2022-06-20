@@ -142,4 +142,4 @@ This work belongs to [^1].
 Course [^2].
 [^note]:
 [^1]: Author: Audrey MONJARAS :mexico: :canada:
-[^2]: Data Analytics: Unit 14 Data Visualizations with Tableau and Pandas
+[^2]: Data Analytics: Unit 15 Statistics and R
