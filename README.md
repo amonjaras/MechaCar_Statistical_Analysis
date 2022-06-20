@@ -7,7 +7,7 @@ R
 
 - [Deliverable 2](#deliverable-2-summary-statistics-on-suspension-coils)
 
-- [Deliverable 3](#deliverable-3-t--tests-on-suspension-coils)
+- [Deliverable 3](#deliverable-3-t-tests-on-suspension-coils)
 
 - [Deliverable 4](#deliverable-4-study-design-mechacar-vs-competition)
 
